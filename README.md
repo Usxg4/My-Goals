@@ -16,6 +16,7 @@ Las metas son objetivos estratégicos que deseamos alcanzar en un período de ti
 * 📈 **Constante Mejora:** Profundizar y perfeccionar las tecnologías que domino actualmente.
 * 🎓 **Título Técnico:** Concluir exitosamente la tecnología en **Análisis y Desarrollo de Software (ADSO)** en el SENA.
 * 🛠️ **Proyecto Integrador:** Finalizar un proyecto personal de software aplicando los conocimientos adquiridos.
+* 🌐 **Inglés Técnico:** Fortalecer el dominio del idioma inglés enfocado en el sector de la tecnología.
 
 ---
 
