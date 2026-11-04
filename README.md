@@ -24,7 +24,7 @@ Las metas son objetivos estratégicos que deseamos alcanzar en un período de ti
 
 * 💼 **Inserción Laboral:** Conseguir un empleo en el área de desarrollo de software con una excelente remuneración.
 * 📚 **Educación Continua:** Mantener una mentalidad de aprendizaje permanente e innovación tecnológica.
-* 🎓 **Grado Profesional:** Culminar la **Ingeniería de Sistemas** o **Ingeniería en Desarrollo de Software**.
+* 🎓 **Grado Profesional:** Empezar y Culminar la **Ingeniería de Sistemas** o **Ingeniería en Desarrollo de Software**.
 * 🚗 **Patrimonio Personal:** Adquirir mi propio vehículo (moto y carro) y vivienda propia.
 * 👨‍👩‍👧‍👦 **Impacto Familiar:** Apoyar económicamente a mi familia para brindarles una mejor calidad de vida.
 
